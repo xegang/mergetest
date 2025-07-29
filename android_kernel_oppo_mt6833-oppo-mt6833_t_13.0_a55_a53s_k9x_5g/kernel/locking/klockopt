@@ -1,1 +1,1 @@
-../../../vendor/oplus/kernel/oplus_performance/klockopt
+source "../../../vendor/oplus/kernel/oplus_performance/klockopt/Kconfig"
